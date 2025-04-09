@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b156b9cc-37e6-4005-888d-7723ee856151" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/uebung1/businesslogic/NumberTransformer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/uebung1/client/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/uebung1/test/TestHexNumberTransformer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SE1SS25.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SE1SS25.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/uebung1/businesslogic/NumberTransformer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/uebung1/businesslogic/NumberTransformer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/uebung1/client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/uebung1/client/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/uebung1/test/TestHexNumberTransformer.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2vLsnAkvUoOHKe4gk6XvJ3ZCV7b" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.TestHexNumberTransformer.executor": "Run",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
@@ -43,11 +45,39 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/lamia/javaordner/SE1SS25",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lamia\javaordner\SE1SS25" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestHexNumberTransformer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SE1SS25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uebung1.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uebung1.test" />
+      <option name="MAIN_CLASS_NAME" value="uebung1.test.TestHexNumberTransformer" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestHexNumberTransformer" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
