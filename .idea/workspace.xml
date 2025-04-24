@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b156b9cc-37e6-4005-888d-7723ee856151" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SE1SS25.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SE1SS25.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/uebung1/businesslogic/NumberTransformer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/uebung1/businesslogic/NumberTransformer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/uebung1/client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/uebung1/client/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/uebung1/test/TestHexNumberTransformer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/uebung1/test/TestHexNumberTransformer.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/uebung1/test/TestHexNumberTransformer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -30,6 +29,9 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2vLsnAkvUoOHKe4gk6XvJ3ZCV7b" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,6 +39,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.TestCardBox.executor": "Run",
+    "JUnit.TestCardBox.test.executor": "Debug",
     "JUnit.TestHexNumberTransformer.executor": "Run",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -56,7 +60,38 @@
       <recent name="C:\Users\lamia\javaordner\SE1SS25" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.TestCardBox">
+    <configuration name="TestCardBox" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SE1SS25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uebung2.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uebung2.test" />
+      <option name="MAIN_CLASS_NAME" value="uebung2.test.TestCardBox" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCardBox.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SE1SS25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uebung2.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uebung2.test" />
+      <option name="MAIN_CLASS_NAME" value="uebung2.test.TestCardBox" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestHexNumberTransformer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SE1SS25" />
       <extension name="coverage">
@@ -74,6 +109,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestCardBox" />
+        <item itemvalue="JUnit.TestCardBox.test" />
         <item itemvalue="JUnit.TestHexNumberTransformer" />
       </list>
     </recent_temporary>
@@ -99,5 +136,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/uebung2/box/CardBox.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
