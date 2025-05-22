@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b156b9cc-37e6-4005-888d-7723ee856151" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/uebung1/test/TestHexNumberTransformer.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/uebung1/test/TestHexNumberTransformer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SE1SS25.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SE1SS25.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -38,10 +38,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Verwaltung.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "JUnit.TestCardBox.executor": "Run",
     "JUnit.TestCardBox.test.executor": "Debug",
     "JUnit.TestHexNumberTransformer.executor": "Run",
+    "JUnit.TestUserStoryVerwaltung.executor": "Run",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
@@ -49,7 +51,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/lamia/javaordner/SE1SS25",
+    "last_opened_file_path": "C:/Users/phili/IdeaProjects/SE1SS25/src/main/uebung3",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -57,10 +59,24 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\phili\IdeaProjects\SE1SS25\src\main\uebung3" />
       <recent name="C:\Users\lamia\javaordner\SE1SS25" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestCardBox">
+  <component name="RunManager" selected="JUnit.TestUserStoryVerwaltung">
+    <configuration name="Verwaltung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.uebung4.verwaltung.Verwaltung" />
+      <module name="SE1SS25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.uebung4.verwaltung.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestCardBox" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SE1SS25" />
       <extension name="coverage">
@@ -107,8 +123,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestUserStoryVerwaltung" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SE1SS25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uebung4.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uebung4.test" />
+      <option name="MAIN_CLASS_NAME" value="uebung4.test.TestUserStoryVerwaltung" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestUserStoryVerwaltung" />
+        <item itemvalue="Application.Verwaltung" />
         <item itemvalue="JUnit.TestCardBox" />
         <item itemvalue="JUnit.TestCardBox.test" />
         <item itemvalue="JUnit.TestHexNumberTransformer" />
