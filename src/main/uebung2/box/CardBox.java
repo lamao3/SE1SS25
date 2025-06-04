@@ -50,7 +50,7 @@ public class CardBox {
         for (int i=0; i<cards.size(); i++) {
             if (cards.get(i).getId() == x) {
                 res = true;
-                throw new CardBoxException("Das CardBox-Objekt mit der ID [ID des Objekts] ist bereits vorhanden");
+                throw new CardBoxException("Das CardBox-Objekt mit der ID " + x + " ist bereits vorhanden");
             }
         }
 
